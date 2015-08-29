@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1062.9921"
-   height="814.96063"
+   width="820"
+   height="640"
    id="svg4064"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -21,28 +21,30 @@
     <marker
        inkscape:stockid="TriangleOutS"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="TriangleOutS"
        style="overflow:visible">
       <path
          id="path6964"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         transform="scale(0.2)" />
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Mend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path6843"
-         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
     </marker>
     <linearGradient
        id="linearGradient7958">
@@ -368,14 +370,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="643.55783"
-     inkscape:cy="234.92615"
+     inkscape:zoom="2"
+     inkscape:cx="557.97573"
+     inkscape:cy="87.338359"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     units="mm"
+     units="px"
      height="167mm"
      inkscape:window-width="1440"
      inkscape:window-height="751"
@@ -384,8 +386,12 @@
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="0,1"
-       position="1087.7953,42.519685"
+       position="836.22047,38.976378"
        id="guide5220" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="800.7874,102.75591"
+       id="guide3051" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -403,86 +409,84 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-237.40158)">
+     transform="translate(0,-412.36221)">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="1048.8188"
-       y="1009.8425"
+       style="font-size:30.72220802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="800.78741"
+       y="1013.3858"
        id="text4070"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1048.8188"
-         y="1009.8425"
-         style="font-size:12px;font-style:normal;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Bold"
+         x="800.78741"
+         y="1013.3858"
+         style="font-size:9px;font-style:normal;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan6526">J.-B. Carré - guest spreaker in the EPFL seminar &quot;Empower your writing process&quot;, 03/09/2015</tspan><tspan
          sodipodi:role="line"
-         x="1048.8188"
-         y="1024.8785"
-         style="font-size:12px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
-         id="tspan5860">Fig. 1 is the intellectual property of the IEA and is presented here as an illustration. All the rights of the figure and this slide are reserved.<tspan
-   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold Oblique"
-   id="tspan4639" /></tspan><tspan
+         x="800.78741"
+         y="1024.6628"
+         style="font-size:9px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
+         id="tspan5860">Fig. 1 is the intellectual property of the Swiss Federal Office of Energy. All the rights of the figure and this slide are reserved.</tspan><tspan
          sodipodi:role="line"
-         x="1048.8188"
-         y="1039.8785"
-         style="font-size:12px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
+         x="800.78741"
+         y="1035.9128"
+         style="font-size:9px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
          id="tspan4641"><tspan
-   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold Oblique"
+   style="font-size:9px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold Oblique"
    id="tspan4643">This slide is illegal</tspan>, as the figure is displayed without autorization.</tspan></text>
     <g
        id="g3984"
-       transform="matrix(0.35593084,0,0,0.35593084,38.000453,221.67394)"
+       transform="matrix(0.27337454,0,0,0.27337454,30.724611,414.19084)"
        style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/cc-fig.png"
        xlink:href="../pictures/cc-fig.png"
-       width="574.0567"
-       height="383.53735"
+       width="440.90726"
+       height="294.57785"
        id="image5230"
-       x="482.18677"
-       y="423.36218" />
+       x="371.88425"
+       y="569.09851" />
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/original-fig.png"
        xlink:href="../pictures/original-fig.png"
-       width="462.38098"
-       height="409.32089"
+       width="355.13412"
+       height="314.38101"
        id="image5241"
        x="6.6316028"
-       y="429.83408" />
+       y="574.06934" />
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/credits.png"
        xlink:href="../pictures/credits.png"
-       width="550.02423"
-       height="70.831795"
+       width="422.44901"
+       height="54.402725"
        id="image5252"
-       x="490.59003"
-       y="873.78699" />
+       x="378.33841"
+       y="915.04968" />
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/bib.png"
        xlink:href="../pictures/bib.png"
-       width="550.02423"
-       height="48.712914"
+       width="422.44901"
+       height="37.414207"
        id="image5263"
-       x="490.59003"
-       y="815.28265" />
+       x="378.33841"
+       y="870.11511" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:70.86614227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutS)"
-       d="m 189.50462,476.77729 0,-174.24979 581.24178,0 0,120.50967"
+       style="fill:none;stroke:#000000;stroke-width:54.42911148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutS)"
+       d="m 147.08818,610.12431 0,-133.83348 446.42577,0 0,92.55809"
        id="path5274"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="480.16992"
-       y="312.36221"
+       style="font-size:30.72220802px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="370.33517"
+       y="483.84442"
        id="text8390"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8392"
-         x="480.16992"
-         y="312.36221"
+         x="370.33517"
+         y="483.84442"
          style="text-align:center;text-anchor:middle;fill:#ffffff">from &quot;All rights reserved&quot; to CC-by</tspan></text>
   </g>
 </svg>
