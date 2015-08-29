@@ -847,14 +847,19 @@
            y="1017.4171"
            x="1052.9564"
            sodipodi:role="line">J.-B. Carré - guest spreaker in the EPFL seminar &quot;Empower your writing process&quot;, 03/09/2015</tspan><tspan
-           id="tspan6526"
            style="font-size:11.94193268px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
-           y="1032.3802"
+           y="1032.3804"
            x="1052.9564"
-           sodipodi:role="line">Git Logo by Jason Long, licensed under CC-by 3.0 unported</tspan><tspan
+           sodipodi:role="line"
+           id="tspan3533">Source: https://github.com/speredenn/empower-writing-phd</tspan><tspan
+           style="font-size:11.94193268px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
+           y="1047.3079"
+           x="1052.9564"
+           sodipodi:role="line"
+           id="tspan3537">Git Logo by Jason Long, licensed under CC-by 3.0 unported</tspan><tspan
            id="tspan5860"
            style="font-size:11.94193268px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
-           y="1047.3077"
+           y="1062.2352"
            x="1052.9564"
            sodipodi:role="line">Slide licenced under CC-by 4.0 unported</tspan></text>
       <g
@@ -1999,21 +2004,21 @@
         <image
            sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git-logo.jpg"
            xlink:href="../pictures/git-logo.jpg"
-           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
-           width="48.388554"
-           height="39.959579"
-           id="image4211"
+           y="188.81097"
            x="311.87717"
-           y="188.81097" />
+           id="image4211"
+           height="39.959579"
+           width="48.388554"
+           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
         <image
            sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git_logo-notext.png"
            xlink:href="../pictures/git_logo-notext.png"
-           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
-           width="60.847279"
-           height="60.847279"
-           id="image4222"
+           y="287.75748"
            x="300.29208"
-           y="287.75748" />
+           id="image4222"
+           height="60.847279"
+           width="60.847279"
+           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
       <g
          transform="translate(164.55841,-262.44143)"
