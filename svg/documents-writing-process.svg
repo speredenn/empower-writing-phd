@@ -633,10 +633,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="165.74707"
-     inkscape:cy="738.98622"
-     inkscape:current-layer="g3984"
+     inkscape:zoom="2"
+     inkscape:cx="880.61316"
+     inkscape:cy="46.848139"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -646,7 +646,16 @@
      inkscape:window-height="751"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="1048.8189,24.80315"
+       id="guide5214" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1087.7953,42.519685"
+       id="guide5216" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4">
     <rdf:RDF>
@@ -821,23 +830,23 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="1050.6061"
-       y="1019.2751"
+       x="1048.8188"
+       y="1009.8425"
        id="text4070"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1050.6061"
-         y="1019.2751"
-         style="font-size:12px;text-align:end;text-anchor:end"
+         x="1048.8188"
+         y="1009.8425"
+         style="font-size:12px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan5854">J.-B. Carré - guest spreaker in the EPFL seminar &quot;Empower your writing process&quot;, 03/09/2015</tspan><tspan
          sodipodi:role="line"
-         x="1050.6061"
-         y="1034.3112"
+         x="1048.8188"
+         y="1024.8785"
          style="font-size:12px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
          id="tspan6526">Git Logo by Jason Long, licensed under CC-by 3.0 unported</tspan><tspan
          sodipodi:role="line"
-         x="1050.6061"
-         y="1049.3112"
+         x="1048.8188"
+         y="1039.8785"
          style="font-size:12px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
          id="tspan5860">Slide licenced under CC-by 4.0 unported</tspan></text>
     <g
