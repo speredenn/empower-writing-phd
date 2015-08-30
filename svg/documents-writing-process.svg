@@ -676,8 +676,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="604.93505"
-     inkscape:cy="531.30198"
+     inkscape:cx="568.4513"
+     inkscape:cy="98.76203"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -2054,21 +2054,21 @@
       <image
          sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git-logo.jpg"
          xlink:href="../pictures/git-logo.jpg"
-         y="188.81097"
-         x="311.87717"
-         id="image4211"
-         height="39.959579"
+         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
          width="48.388554"
-         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
+         height="39.959579"
+         id="image4211"
+         x="311.87717"
+         y="188.81097" />
       <image
          sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git_logo-notext.png"
          xlink:href="../pictures/git_logo-notext.png"
-         y="287.75748"
-         x="300.29208"
-         id="image4222"
-         height="60.847279"
+         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
          width="60.847279"
-         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
+         height="60.847279"
+         id="image4222"
+         x="300.29208"
+         y="287.75748" />
     </g>
     <g
        id="g6486"
@@ -3944,5 +3944,37 @@
        id="path7274-1-1-5-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.12429905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="411.71063"
+       y="962.98492"
+       id="text8289-7-1-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="411.71063"
+         y="962.98492"
+         style="font-size:10.55105591px;font-weight:bold;text-align:start;text-anchor:start;fill:#008000;-inkscape-font-specification:Liberation Sans Bold"
+         id="tspan8326-7-7-7">Writing?</tspan><tspan
+         id="tspan3555-4-4"
+         sodipodi:role="line"
+         x="411.71063"
+         y="976.17377"
+         style="font-size:10.55105591px;text-align:start;text-anchor:start;fill:#008000">- OverLeaf.org</tspan><tspan
+         id="tspan3594-8"
+         sodipodi:role="line"
+         x="411.71063"
+         y="989.36255"
+         style="font-size:10.55105591px;text-align:start;text-anchor:start;fill:#008000">- Authorea.com</tspan><tspan
+         id="tspan3563-4-8"
+         sodipodi:role="line"
+         x="411.71063"
+         y="1002.5514"
+         style="font-size:10.55105591px;text-align:start;text-anchor:start;fill:#008000">- ...</tspan><tspan
+         id="tspan3561-8-2"
+         sodipodi:role="line"
+         x="411.71063"
+         y="1015.7402"
+         style="font-size:10.55105591px;text-align:start;text-anchor:start;fill:#008000" /></text>
   </g>
 </svg>
