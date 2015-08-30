@@ -633,10 +633,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="886.40082"
-     inkscape:cy="168.91491"
-     inkscape:current-layer="g3532"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="404.01927"
+     inkscape:cy="163.73339"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -681,6 +681,13 @@
     <g
        id="g3532"
        transform="matrix(0.75364687,0,0,0.75364687,4.174216,256.61822)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-03)"
+         d="m 358.99999,328.50001 c -112.78501,34.36605 -34.78198,344.0236 58,180.99999"
+         id="path3565"
+         inkscape:connector-curvature="0"
+         transform="matrix(1.3268814,0,0,1.3268814,-9.5935127,219.92999)"
+         sodipodi:nodetypes="cc" />
       <g
          transform="translate(-8.2715715e-8,-102.45794)"
          id="g9054">
@@ -2004,21 +2011,21 @@
         <image
            sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git-logo.jpg"
            xlink:href="../pictures/git-logo.jpg"
-           y="188.81097"
-           x="311.87717"
-           id="image4211"
-           height="39.959579"
+           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
            width="48.388554"
-           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
+           height="39.959579"
+           id="image4211"
+           x="311.87717"
+           y="188.81097" />
         <image
            sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git_logo-notext.png"
            xlink:href="../pictures/git_logo-notext.png"
-           y="287.75748"
-           x="300.29208"
-           id="image4222"
-           height="60.847279"
+           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
            width="60.847279"
-           style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
+           height="60.847279"
+           id="image4222"
+           x="300.29208"
+           y="287.75748" />
       </g>
       <g
          transform="translate(164.55841,-262.44143)"
@@ -3032,7 +3039,7 @@
         </g>
       </g>
       <g
-         transform="matrix(1.3034714,0,0,1.3034714,-323.65381,-427.10318)"
+         transform="matrix(0.88868276,0,0,0.88868276,-122.96671,-62.838695)"
          id="g8640">
         <g
            id="g8628">
@@ -3101,16 +3108,16 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path7274-1-1"
-         d="M 236.92083,671.12752 405.70509,811.73769"
+         d="m 236.25739,683.06945 138.92943,88.8618"
          style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path7274-1-1-9"
-         d="M 237.33354,671.88424 348.3678,876.99441"
+         d="m 236.00666,683.16273 81.17943,142.74675"
          style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
       <g
-         transform="matrix(1.4305866,0,0,1.4305866,-181.48289,-391.80146)"
+         transform="matrix(0.97534756,0,0,0.97534756,-26.037203,-38.770633)"
          id="g3558">
         <g
            transform="translate(114.43364,-89.54087)"
@@ -3411,6 +3418,94 @@
              x="106.92322"
              id="tspan6484-1-0-6-89"
              sodipodi:role="line">3D</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8289-7-1"
+         y="282.25769"
+         x="952.24878"
+         style="font-size:12.10686207px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         xml:space="preserve"><tspan
+           id="tspan8326-7"
+           style="font-size:14px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Liberation Sans Bold"
+           y="282.25769"
+           x="952.24878"
+           sodipodi:role="line">Licenses?</tspan><tspan
+           style="font-size:14px;text-align:start;text-anchor:start"
+           y="299.75769"
+           x="952.24878"
+           sodipodi:role="line"
+           id="tspan3555">- CC-by 4.0</tspan><tspan
+           style="font-size:14px;text-align:start;text-anchor:start"
+           y="317.25769"
+           x="952.24878"
+           sodipodi:role="line"
+           id="tspan3557">- Open Hardware</tspan><tspan
+           style="font-size:14px;text-align:start;text-anchor:start"
+           y="334.75769"
+           x="952.24878"
+           sodipodi:role="line"
+           id="tspan3559">- GPL v3</tspan><tspan
+           style="font-size:14px;text-align:start;text-anchor:start"
+           y="352.25769"
+           x="952.24878"
+           sodipodi:role="line"
+           id="tspan3563">- ...</tspan><tspan
+           style="font-size:14px;text-align:start;text-anchor:start"
+           y="369.75769"
+           x="952.24878"
+           sodipodi:role="line"
+           id="tspan3561" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:53.07525635px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         x="550.52057"
+         y="864.79437"
+         id="text4667"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4669"
+           x="550.52057"
+           y="864.79437"
+           style="font-size:13.99859905px;text-align:center;text-anchor:middle">Professor</tspan><tspan
+           sodipodi:role="line"
+           x="550.52057"
+           y="882.2926"
+           id="tspan4671"
+           style="font-size:13.99859905px;text-align:center;text-anchor:middle">Industrial partners</tspan></text>
+      <g
+         id="g4677"
+         transform="translate(34.892779,21.522762)">
+        <rect
+           ry="0"
+           rx="0"
+           transform="matrix(1.3268814,0,0,1.3268814,-9.5935127,219.92999)"
+           y="524.5"
+           x="313"
+           height="25.292892"
+           width="46.753048"
+           id="rect4673"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           transform="matrix(1.3268814,0,0,1.3268814,-9.5935127,219.92999)"
+           inkscape:connector-curvature="0"
+           id="path4675"
+           d="m 313.2483,525.09515 23.15774,12.37437 23.33453,-12.55115"
+           style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:35.54730988px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="423.5412"
+           y="943.146"
+           id="text8636-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan8638-0"
+             x="423.5412"
+             y="943.146"
+             style="font-size:8.44248581px">git <tspan
+   style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+   id="tspan4702">sha</tspan></tspan></text>
       </g>
     </g>
   </g>
