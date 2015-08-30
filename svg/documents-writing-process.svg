@@ -2054,21 +2054,21 @@
       <image
          sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git-logo.jpg"
          xlink:href="../pictures/git-logo.jpg"
-         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
-         width="48.388554"
-         height="39.959579"
-         id="image4211"
+         y="188.81097"
          x="311.87717"
-         y="188.81097" />
+         id="image4211"
+         height="39.959579"
+         width="48.388554"
+         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
       <image
          sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/git_logo-notext.png"
          xlink:href="../pictures/git_logo-notext.png"
-         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
-         width="60.847279"
-         height="60.847279"
-         id="image4222"
+         y="287.75748"
          x="300.29208"
-         y="287.75748" />
+         id="image4222"
+         height="60.847279"
+         width="60.847279"
+         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
        id="g6486"
@@ -3600,29 +3600,29 @@
     <text
        xml:space="preserve"
        style="font-size:9.12429905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="524.06329"
-       y="916.88342"
+       x="527.56329"
+       y="920.88342"
        id="text8289-7-1-1-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="524.06329"
-         y="916.88342"
+         x="527.56329"
+         y="920.88342"
          style="font-size:10.55105591px;font-weight:bold;text-align:start;text-anchor:start;fill:#008000;-inkscape-font-specification:Liberation Sans Bold"
          id="tspan8326-7-7-2">Access?</tspan><tspan
          id="tspan3594-7"
          sodipodi:role="line"
-         x="524.06329"
-         y="930.0722"
+         x="527.56329"
+         y="934.07227"
          style="font-size:10.55105591px;text-align:start;text-anchor:start;fill:#008000">- Open Access?</tspan><tspan
          id="tspan3563-4-1"
          sodipodi:role="line"
-         x="524.06329"
-         y="943.26105"
+         x="527.56329"
+         y="947.26105"
          style="font-size:10.55105591px;text-align:start;text-anchor:start;fill:#008000">- Journals as usual?</tspan><tspan
          id="tspan3561-8-1"
          sodipodi:role="line"
-         x="524.06329"
-         y="956.44983"
+         x="527.56329"
+         y="960.44989"
          style="font-size:10.55105591px;text-align:start;text-anchor:start;fill:#008000" /></text>
     <g
        style="stroke-width:1.23587346;stroke-miterlimit:4;stroke-dasharray:none"
