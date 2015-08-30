@@ -3,12 +3,12 @@ Empower your writing process
 ============================
 
 This repository contains my slides for a 45-min talk about my thesis
-writing process. This talk is included in the EPFL seminar `Empower
-your writing process <http://library2.epfl.ch/page-55486.html>`_,
+writing process. This talk is included in the EPFL seminar "`Empower
+your writing process <http://library2.epfl.ch/page-55486.html>`_",
 which takes place at EPFL, on September 3rd 2015.
 
-The current version of the slides can be accessed `here
-<http://speredenn.github.io/empower-writing-phd/>`_.
+**The current version of the slides can be accessed `here
+<http://speredenn.github.io/empower-writing-phd/>`_**.
 
 The files in this repository are licensed under `Creative Commons
 Attibution 4.0 Unported
@@ -21,3 +21,6 @@ used in the slides as an example of figure refactoring. The original
 figure is used in this repository and in the corresponding slide
 without a proper authorization for now (I'm working hard to get the
 authorization).
+
+The slides are built using the stable version of the `impress.js
+<https://github.com/impress/impress.js>`_ framework.
