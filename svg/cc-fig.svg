@@ -426,7 +426,9 @@
          x="800.78741"
          y="1024.6628"
          style="font-size:9px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
-         id="tspan5860">Source: https://github.com/speredenn/empower-writing-phd</tspan><tspan
+         id="tspan5860">Source: <tspan
+   style="fill:#0000ff"
+   id="tspan3052">https://github.com/speredenn/empower-writing-phd/releases/tag/v1.0.3</tspan></tspan><tspan
          sodipodi:role="line"
          x="800.78741"
          y="1035.9128"
@@ -446,35 +448,35 @@
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/cc-fig.png"
        xlink:href="../pictures/cc-fig.png"
-       y="569.09851"
-       x="371.88425"
-       id="image5230"
+       width="440.90726"
        height="294.57785"
-       width="440.90726" />
+       id="image5230"
+       x="371.88425"
+       y="569.09851" />
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/original-fig.png"
        xlink:href="../pictures/original-fig.png"
-       y="574.06934"
-       x="6.6316028"
-       id="image5241"
+       width="355.13412"
        height="314.38101"
-       width="355.13412" />
+       id="image5241"
+       x="6.6316028"
+       y="574.06934" />
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/credits.png"
        xlink:href="../pictures/credits.png"
-       y="915.04968"
-       x="378.33841"
-       id="image5252"
+       width="422.44901"
        height="54.402725"
-       width="422.44901" />
+       id="image5252"
+       x="378.33841"
+       y="915.04968" />
     <image
        sodipodi:absref="C:\Users\jeanbapt.carre\Documents\src\empower-writing-phd\svg\../pictures/bib.png"
        xlink:href="../pictures/bib.png"
-       y="870.11511"
-       x="378.33841"
-       id="image5263"
+       width="422.44901"
        height="37.414207"
-       width="422.44901" />
+       id="image5263"
+       x="378.33841"
+       y="870.11511" />
     <path
        style="fill:none;stroke:#000000;stroke-width:54.42911148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutS)"
        d="m 147.08818,610.12431 0,-133.83348 446.42577,0 0,92.55809"
