@@ -47,6 +47,6 @@ Versions of the slides, per event
 Thanks
 ------
 
-I thank @grolimur to have invited me to give this talk at EPFL
-in 2015. It gave me the opportunity to share the good practices and
-the experience.
+I thank `@grolimur <https://github.com/grolimur>`_ to have invited me
+to give this talk at EPFL in 2015. It gave me the opportunity to share
+the good practices and the experience.
