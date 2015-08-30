@@ -7,8 +7,8 @@ writing process. This talk is included in the EPFL seminar "`Empower
 your writing process <http://library2.epfl.ch/page-55486.html>`_",
 which takes place at EPFL, on September 3rd 2015.
 
-**The current version of the slides can be accessed `here
-<http://speredenn.github.io/empower-writing-phd/>`_**.
+The current version of the slides can be accessed `here
+<http://speredenn.github.io/empower-writing-phd/>`_.
 
 The files in this repository are licensed under `Creative Commons
 Attibution 4.0 Unported
