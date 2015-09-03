@@ -898,7 +898,7 @@
          y="1034.6414"
          style="font-size:9px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique">Source: <tspan
    id="tspan3551"
-   style="fill:#0000ff">https://github.com/speredenn/empower-writing-phd/releases/tag/v1.0.4</tspan></tspan><tspan
+   style="fill:#0000ff">https://github.com/speredenn/empower-writing-phd/releases/tag/v1.0.5</tspan></tspan><tspan
          id="tspan3537"
          sodipodi:role="line"
          x="797.73151"
@@ -2054,21 +2054,21 @@
       <image
          sodipodi:absref="/home/speredenn/src/empower-writing-phd/svg/../pictures/git-logo.jpg"
          xlink:href="../pictures/git-logo.jpg"
-         y="188.81097"
-         x="311.87717"
-         id="image4211"
-         height="39.959579"
+         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
          width="48.388554"
-         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
+         height="39.959579"
+         id="image4211"
+         x="311.87717"
+         y="188.81097" />
       <image
          sodipodi:absref="/home/speredenn/src/empower-writing-phd/svg/../pictures/git_logo-notext.png"
          xlink:href="../pictures/git_logo-notext.png"
-         y="287.75748"
-         x="300.29208"
-         id="image4222"
-         height="60.847279"
+         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none"
          width="60.847279"
-         style="stroke-width:1.99100876;stroke-miterlimit:4;stroke-dasharray:none" />
+         height="60.847279"
+         id="image4222"
+         x="300.29208"
+         y="287.75748" />
     </g>
     <g
        id="g6486"
