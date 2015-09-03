@@ -383,16 +383,16 @@
      inkscape:zoom="1.4142136"
      inkscape:cx="720.40376"
      inkscape:cy="93.955654"
-     inkscape:current-layer="g3165"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      units="px"
      height="167mm"
-     inkscape:window-width="1440"
-     inkscape:window-height="751"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -531,16 +531,21 @@
            sodipodi:role="line">J.-B. Carré - guest spreaker in the EPFL seminar &quot;Empower your writing process&quot;, 03/09/2015</tspan><tspan
            id="tspan5860"
            style="font-size:11.69478607px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
-           y="1021.0284"
+           y="1020.9933"
            x="1038.1809"
            sodipodi:role="line">Source: <tspan
    style="fill:#0000ff"
    id="tspan3168">https://github.com/speredenn/empower-writing-phd/releases/tag/v1.0.4</tspan></tspan><tspan
            style="font-size:11.69478607px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
-           y="1035.647"
+           y="1035.6118"
            x="1038.1809"
            sodipodi:role="line"
-           id="tspan3167">Slide licenced under CC-by 4.0 unported</tspan></text>
+           id="tspan3167">Drawing inspired from Neuland GmbH Bikablo figures</tspan><tspan
+           style="font-size:11.69478607px;font-style:oblique;text-align:end;text-anchor:end;-inkscape-font-specification:Liberation Sans Oblique"
+           y="1050.2302"
+           x="1038.1809"
+           sodipodi:role="line"
+           id="tspan3169">Slide licenced under CC-by 4.0 unported</tspan></text>
       <g
          style="stroke:#000000"
          id="g4657"
